@@ -1,5 +1,6 @@
-
 ## Project Structure
+
+```text
 
 WheatVision-YOLO-CAST/
 │
